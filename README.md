@@ -2,3 +2,4 @@
 django-rest-calc
 
 REST API on Django simple example without an application and database
+with Heroku Deployment supported
